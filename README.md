@@ -26,3 +26,5 @@ npm install @types/cypress --save-dev
 # Installation cucumber 
 $ npm install @badeball/cypress-cucumber-preprocessor
 
+#To run it use
+cypress run --headed
